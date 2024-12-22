@@ -60,7 +60,7 @@ userSelect.forEach((choice) => {
     userChoice = choice.getAttribute("id");
     compSelect();
     result();
-    })
+    });
 });
 
 
