@@ -1,5 +1,5 @@
 <div align="center">
-    Rock Paper Scissor
+    <a href="https://kishaltandel.github.io/Rock-Paper-Scissor/">Rock Paper Scissor</a>
 </div>
 <br>
 <div align="center">
